@@ -1,4 +1,9 @@
 
-public class Lesson101 {
+public class Whatever {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!!!");
+	}
 
 }
